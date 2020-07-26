@@ -1,5 +1,5 @@
 print ("Hello world")
 
-print ("This is frist VS")
+print ("Here is another Massege")
 
 print ("Finally i did")
